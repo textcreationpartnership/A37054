@@ -1,0 +1,405 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Right Honourable the Lord Mayor and Court of Aldermen, at St. Mary le Bow upon the 21th of November, 1675 by William Dvrham, B.D., rector of St. Mildreds Breadstreet, London.</title>
+            <author>Durham, William, 1611-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37054</idno>
+            <idno type="STC">Wing D2834</idno>
+            <idno type="STC">ESTC R31391</idno>
+            <idno type="EEBO-CITATION">11957137</idno>
+            <idno type="OCLC">ocm 11957137</idno>
+            <idno type="VID">51540</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37054)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51540)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1005:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Right Honourable the Lord Mayor and Court of Aldermen, at St. Mary le Bow upon the 21th of November, 1675 by William Dvrham, B.D., rector of St. Mildreds Breadstreet, London.</title>
+                  <author>Durham, William, 1611-1684.</author>
+                  <author>Durham, William, d. 1686.</author>
+               </titleStmt>
+               <extent>[6], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.R. for Edward Gellibrand ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Although generally listed as the work of William Durham the younger, there is no evidence that he was rector of St. Mildreds--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51540:1"/>
+            <pb facs="tcp:51540:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before the RIGHT HONOURABLE THE Lord Mayor, And COURT of ALDERMEN, AT St. <hi>MARY le BOW,</hi> Upon the 21<hi rend="sup">th.</hi> of <hi>November,</hi> 1675.</p>
+            <p>By <hi>WILLIAM D<g ref="char:V">Ʋ</g>RHAM,</hi> B. D. Rector of St. <hi>Mildreds Breadſtreet, London.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. R.</hi> for <hi>Edward Gellibrand,</hi> at the ſign of the <hi>Golden-Ball</hi> in St. <hi>Paul's Church-yard,</hi> 1676.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:51540:2"/>
+            <p>Imprimatur,</p>
+            <p>
+               <hi>Gul. Jane,</hi> Reverendo in Chriſto Patri ac D<hi rend="sup">no.</hi> D<hi rend="sup">no.</hi> 
+               <hi>Henrico</hi> Epiſcopo <hi>Lond.</hi> à ſacris domeſticis.</p>
+            <closer>
+               <dateline>
+                  <date>Jan. 13. 1675.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:51540:2"/>
+            <head>To the Right Honourable S<hi rend="sup">r.</hi> JOSEPH SHELDON, Lord MAYOR of LONDON, AND To the Right Honourable The Court of Aldermen, WITH THE SHERIFFS.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N compliance with your Lord<g ref="char:EOLhyphen"/>ſhips deſire, which with me hath the force of Command, this Sermon was preacht, and is now made publick in purſuance of an Order of that Honourable Court, to which I am obliged, and ready to yield my moſt chearful obedience. I am not
+<pb facs="tcp:51540:3"/> ſo great a Flatterer of my ſelf, as to think this haſty and unpoliſht diſcourſe deſerves the honour You have put upon it: yet, I dare not ſo far diſtruſt Your judgments, as not to think that it may be ſuitable and ſer<g ref="char:EOLhyphen"/>viceable to the Times we live in.</p>
+            <p>A Generation who ſeem to make it their buſineſs to elude all the Methods of Divine Providence, and to baffle all thoſe various Means, which God is pleaſed to uſe for their amendment: Who are neither <hi>melted</hi> by his <hi>Mercies,</hi> nor <hi>humbled</hi> by his <hi>Judg<g ref="char:EOLhyphen"/>ments.</hi> To obviate which great and grow<g ref="char:EOLhyphen"/>ing Evils, I made choice of this Argu<g ref="char:EOLhyphen"/>ment to treat on. The ſubject matter where<g ref="char:EOLhyphen"/>of is weighty and momentous; and, as it deſerved an abler hand to ſet it off: ſo it challenges the moſt ſerious attention from the greateſt Perſons.</p>
+            <p>What it loſeth by the weak management of the Argument muſt be put upon my ac<g ref="char:EOLhyphen"/>count, who, to prevent the cenſures of o<g ref="char:EOLhyphen"/>thers,
+<pb facs="tcp:51540:3"/> think meanlier of it than any man elſe can do. Such as it is, it humbly offers it ſelf to Your favourable acceptance: not doubting but it ſhall find ſome countenance from them, who have brought it into pub<g ref="char:EOLhyphen"/>lick view. I have only two requeſts to make, and I have done. One to God; that he would accompany it with his Bleſſing, that it may be in ſome meaſure <hi>effectual</hi> to<g ref="char:EOLhyphen"/>ward the cure of that great Evil it com<g ref="char:EOLhyphen"/>plains of: The other is to Your Lordſhip, and that Honourable Court, that Your <hi>cha<g ref="char:EOLhyphen"/>rity</hi> would accept of my good intentions, and that Your <hi>Juſtice</hi> would make ſome proportionable allowance for the Infirmities of age, and very ſhort warning.</p>
+            <p>In the acknowledgment of which Fa<g ref="char:EOLhyphen"/>vours, I ſhall not ceaſe to implore the Throne of Grace, that God would be plea<g ref="char:EOLhyphen"/>ſed to continue Propitious to this great City, to the Governours and Government there<g ref="char:EOLhyphen"/>of: that all heats and animoſities may be
+<pb facs="tcp:51540:4"/> laid aſide, diviſions healed, breaches made up: that all the Members of this Great Body may be as men of one mind in an houſe, and ſtudy and endeavour to promote the publick good, without reſpect to private advantages: which is the moſt probable means, to make and continue it a flouriſhing and a happy City. Which is the hearty and daily prayer of,</p>
+            <closer>
+               <salute>My Lord, </salute> 
+               <signed>Your Lordſhips moſt humble Servant, William Durham.</signed>
+               <dateline>
+                  <date>
+                     <hi>January</hi> the <hi>17th.</hi> 1675/6.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:51540:4"/>
+            <head>A SERMON Preached before the Right Honourable the <hi>Lord Mayor,</hi> and <hi>Court of Aldermen,</hi> at St. <hi>Mary le Bow,</hi> upon the 21<hi rend="sup">ſt.</hi> of <hi>November,</hi> 1675.</head>
+            <epigraph>
+               <bibl>PROV. XXIX. 1.</bibl>
+               <q>He that being often reproved hardens his neck, ſhall ſuddenly be deſtroyed, and that without remedy.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg> Shall not keep you too long, by a needleſs preface, at the door of the Text: nor engage my ſelf in a fruitleſs enquiry after the cohe<g ref="char:EOLhyphen"/>rence of theſe with the foregoing words.</p>
+            <p>A task which ſome have undertaken in refe<g ref="char:EOLhyphen"/>rence to this whole Book of <hi>Proverbs;</hi> but with no better ſucceſs, than if they had ſought for de<g ref="char:EOLhyphen"/>pendence
+<pb n="2" facs="tcp:51540:5"/> between <hi>Bede</hi>'s <hi>Axioms,</hi> or looked for con<g ref="char:EOLhyphen"/>nexion in a Rope of Sand.</p>
+            <p>The words are an entire Propoſition, and re<g ref="char:EOLhyphen"/>ſolve themſelves into theſe three parts.</p>
+            <list>
+               <item>1. Here is a ſubject, or perſon ſpoken of; <hi>One that hath been often reproved.</hi>
+               </item>
+               <item>2. A ſin which he is ſuppoſed guilty of, <hi>He hardens his neck.</hi>
+               </item>
+               <item>3. The puniſhment which is threatned for this ſin; <hi>He ſhall ſuddenly be deſtroyed, and that with<g ref="char:EOLhyphen"/>out remedy.</hi>
+               </item>
+            </list>
+            <p>For our more orderly proceeding, I ſhall firſt open theſe three things as they are here propoſed; ſecondly, confirm the main Propoſition, and then apply all in a few words.</p>
+            <p n="1">I. <hi>He that being often reproved.] Vir Increpationum,</hi> a man of Reproofs; 'tis a familiar Hebraiſm, and is interpreted ſometimes in an <hi>Active,</hi> ſometimes in a <hi>Paſſive</hi> ſence.</p>
+            <p>
+               <hi>Actively;</hi> Thus <hi>Shimei</hi> falſly calls <hi>David a Man</hi> 
+               <note place="margin">2 Sam 16. 5, 7.</note> 
+               <hi>of Bloods,</hi> one that had a bloody mind, a bloody hand, and had (like <hi>Manaſſes)</hi> ſhed innocent blood very much. And ſo ſome take it here in an <hi>active ſenſe;</hi> A man of Reproofs is one (in this con<g ref="char:EOLhyphen"/>ſtruction)
+<pb n="3" facs="tcp:51540:5"/> who by occaſion of his place and office, or by his voluntary undertaking is much and ſe<g ref="char:EOLhyphen"/>vere in reproving others, and in the mean ſpace hardens his own neck, and continues in the ſame or ſuch like ſins which he reproves in others. He that preaches another ſhould not ſteal, and himſelf com<g ref="char:EOLhyphen"/>mits <note place="margin">Rom. 2. 21, 22, &amp;c.</note> ſacriledg, which is the worſt of theft. He that reproves another for fornication, and himſelf com<g ref="char:EOLhyphen"/>mits that, or inceſt, which is the higheſt degree of uncleanneſs; as <hi>Judah</hi> did <hi>Thamar.</hi> He that is ſe<g ref="char:EOLhyphen"/>vere <note place="margin">Gen. 38. 24, &amp;c.</note> toward others, in that wherein he indulgeth himſelf; This Perſon is a ſeared Hypocrite, who goes againſt the light of his own Conſcience; he proclaims judgment againſt himſelf; when he hath preached to others, ſhall himſelf become a Caſt-away. <hi>He ſhall ſuddenly be deſtroyed, and that without remedy.</hi>
+            </p>
+            <p>But others generally take the words <hi>Paſſively;</hi> as, a Man of Deſires, <hi>i. e.</hi> one greatly beloved: So <note place="margin">Dan. 10. 11.</note> a Man of Reproofs is one who deſerves to be re<g ref="char:EOLhyphen"/>proved, and hath often been reproved for his faults. In this ſenſe he is called <hi>Vir mortis,</hi> a man of Death who deſerves to die.</p>
+            <p>Now, a Man may be reproved either <hi>Inwardly</hi> or <hi>Outwardly.</hi>
+            </p>
+            <p n="1">
+               <pb n="4" facs="tcp:51540:6"/>1. <hi>Inwardly,</hi> by the checks of Conſcience, which is God's Deputy and Regiſter within us to take notice of, record, and rebuke us for our faults. When we tranſgreſs the Law of God, a Copy whereof is written in our hearts, Conſcience re<g ref="char:EOLhyphen"/>coyls, flies in a Sinner's face, and reproves him for what he hath done amiſs. Thus <hi>Joſeph</hi>'s Brethren <note place="margin">Gen. 42. 21.</note> were rebuked by their own Conſciences, which brought to mind the ill uſage of their Brother, And thoſe <hi>Jews</hi> who brought to Chriſt the woman <note place="margin">Joh. 8. 9.</note> taken in Adultery, being convinced in their own Conſciences by our Saviour's anſwer, withdrew themſelves and their Indictment.</p>
+            <p n="2">2. <hi>Outwardly;</hi> and that two waies, either by <hi>Word</hi> or <hi>Deed.</hi>
+            </p>
+            <p>By <hi>Word,</hi> and that is either <hi>Private</hi> or <hi>Publick.</hi>
+            </p>
+            <p n="1">1. <hi>Private reproof,</hi> is that which is managed by one private perſon toward another. A duty injoyned in the Law, <hi>Thou ſhalt not hate thy Neighbour in thy</hi> 
+               <note place="margin">Lev. 19. 17.</note> 
+               <hi>heart, thou ſhalt in any wiſe</hi> rebuke <hi>thy Brother, and not ſuffer ſin to reſt upon him.</hi> And in the Goſpel, <hi>If thy Brother offend, tell him his fault between thee and him:</hi> 
+               <note place="margin">Matt. 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 15.</note> And again the Apoſtle, <hi>Have no fellowſhip with the unfruitful works of darkneſs, but</hi> reprove <hi>them rather.</hi>
+               <pb n="5" facs="tcp:51540:6"/> A Duty, if well managed, which would bring much glory to God, much advantage to our Brethren, and much comfort to our ſelves; for <hi>he that rebuketh a</hi> 
+               <note place="margin">Prov. 28. 23.</note> 
+               <hi>man, afterward ſhall find more favour than he that flattereth with his tongue.</hi>
+            </p>
+            <p n="2">2. <hi>Publick reproof</hi> is in the miniſtry of the Word. The Word of God is not only for inſtru<g ref="char:EOLhyphen"/>ction, <note place="margin">2 Tim. 3. 16.</note> but for correction and reproof: And thoſe to whom the management of it is committed, are ſuch as reprove in the Gate. The Prophets of old declared their Meſſages from God in the Gates of <note place="margin">Iſ. 29. 21.</note> the City or Temple, becauſe there was the greateſt concourſe of People. Thus God did teſtifie againſt <hi>Iſrael</hi> by his Prophets, and doth againſt us by the Publick Miniſtry every day.</p>
+            <p n="2">2. <hi>Outwardly,</hi> by Deed; God's Rod is a ſpeaking Rod, it hath a voice, and every ſtroke is a reproof. The Rod and Reproof go together, and both teach wiſdom. His corrections are intended for our in<g ref="char:EOLhyphen"/>ſtruction and imbetterment.</p>
+            <p>The word which is here rendred Reproofs, ſig<g ref="char:EOLhyphen"/>nifies <hi>Real</hi> as well as <hi>Verbal reproofs:</hi> not only the <hi>reproofs</hi> and reprehenſion of the <hi>tongue,</hi> but alſo the <hi>chaſtiſements</hi> and ſtrokes of God's <hi>hand. Vir in<g ref="char:EOLhyphen"/>crepationum,</hi>
+               <pb n="6" facs="tcp:51540:7"/> a Man of Reproofs is one <hi>qui increpa<g ref="char:EOLhyphen"/>tur malis &amp; moleſtiis à Deo miſſis, ut viam ſuam,</hi> i. e. <hi>depravatos ſuos mores, aut opinionem ſuam malam deſerat:</hi> When God throws croſſes and troubles in our waies, hedgeth up our waies with thorns, brings trouble on our loyns, feeds us with the bread of affliction, and water of affliction; theſe are his <hi>Real reproofs</hi> whereby he would take us from our corrupt opinions, or licentious practices. In this ſenſe <hi>Balaam</hi> was a <hi>Man of Reproofs,</hi> when the <note place="margin">Numb. 22.</note> Dumb Aſſe ſpeaking with Man's voice rebuked the madneſs of the Prophet, and yet he hardned him<g ref="char:EOLhyphen"/>ſelf <note place="margin">2 Pet. 2. 16.</note> in his evil way.</p>
+            <p>A man of Reproofs then is he who being of<g ref="char:EOLhyphen"/>ten rebuked, either by the checks of his own Con<g ref="char:EOLhyphen"/>ſcience, or by the mouth of private Friends, by the Publick Miniſter or Magiſtrate; whom God chaſtiſeth and ſcourgeth with Croſſes for his a<g ref="char:EOLhyphen"/>mendment, but he repents not, amends not, but goes on ſtill and hardens his neck; which is the ſecond thing to be opened.</p>
+            <p n="2">II. <hi>Hardens his neck;]</hi> The word here put for Neck is the hindermoſt and bony part of the neck, which conſiſts <hi>ex vertebratis oſſibus, ut faciliùs huc &amp;
+<pb n="7" facs="tcp:51540:7"/> illuc obvertatur:</hi> The Neck is not made of one con<g ref="char:EOLhyphen"/>tinued bone, as the Leg or Arm; but <hi>there</hi> are ſe<g ref="char:EOLhyphen"/>veral ſmaller bones ſo joynted one upon another, as may ſerve for the more eaſie turning of it any way as occaſion is offered. And from hence, Man being made with a pliable and yielding neck, thoſe who are intractable and contumacious, who will not be turned from their evil reſolutions and pra<g ref="char:EOLhyphen"/>ctices, are in Scripture uſually termed <hi>Duri cervice,</hi> hard of ſtiff-necked.</p>
+            <p>Or 'tis a Metaphor taken from ſuch Beaſts, whoſe great ſtrength lieth in their Necks; as the Horſe, <hi>Haſt thou given the Horſe ſtrength? haſt thou clothed</hi> 
+               <note place="margin">Job. 39. 19.</note> 
+               <hi>his neck with Thunder?</hi> and the Leviathan, <hi>in whoſe</hi> 
+               <note place="margin">41. 22.</note> 
+               <hi>neck remaineth ſtrength,</hi> and who is ſo terrible that none can tame him.</p>
+            <p>Hence the phraſe is uſed in Scripture to deſcribe a perſon or people that is ſtubborn, obſtinate, im<g ref="char:EOLhyphen"/>morigerous and rebellious. <hi>Ephraim is a Heifer un<g ref="char:EOLhyphen"/>accuſtomed to the yoke, that would not yield her neck to</hi> 
+               <note place="margin">Jer. 31. 18.</note> 
+               <hi>diſcipline.</hi> The Sons of <hi>Belial,</hi> by whom God ſets out the worſt of Sinners, have their name from hence, that they will not ſubmit their necks to any yoke of government, but would do only that which was good in their own eyes.</p>
+            <pb n="8" facs="tcp:51540:8"/>
+            <p>This is ſet out elſewhere in other words to the ſame ſenſe; <hi>thou art obſtinate, thy neck is an iron ſi<g ref="char:EOLhyphen"/>new,</hi> 
+               <note place="margin">Iſ. 48. 4.</note> 
+               <hi>and thy brow is as braſs.</hi> A brow of braſs that <note place="margin">Jer. 5 3.</note> could not bluſh, and an iron ſinew that could not bend Hence we read of rocky-faces, ſtony-hearts, <note place="margin">Ezek. 36. 26. Acts 7. 51.</note> and ſtiff-hearted.</p>
+            <p>Now a man is ſaid to harden his neck as he is ſaid to harden his heart, 'tis all one and the ſame thing: And where theſe two phraſes are put toge<g ref="char:EOLhyphen"/>ther, one is only <hi>exegetical</hi> and explains the other. For the underſtanding whereof we muſt know, that</p>
+            <p n="1">1. There is a <hi>natural hardneſs</hi> in the heart of e<g ref="char:EOLhyphen"/>very man. Every child of <hi>Adam</hi> is born with a ſtone in his heart, the taking of which away is a <note place="margin">Ezek 36 26.</note> part of God's Covenant with man in Chriſt.</p>
+            <p n="2">2. There is an <hi>adventitious hardneſs,</hi> which a man adds to that of his Nature. As he who labours hard, makes his hand every day more callous and brawny than it was before, ſo 'tis in this caſe, Cu<g ref="char:EOLhyphen"/>ſtome in ſin makes the Conſcience more brawny and inſenſible of ſin. Beſides the Natural obliga<g ref="char:EOLhyphen"/>tion which lies upon every man, God hath given them poſitive Laws to inforce their obedience to him: He hath given them ſome abilities to perform
+<pb n="9" facs="tcp:51540:8"/> what he requires; he hath backt his Command<g ref="char:EOLhyphen"/>ments both with Promiſes and Threatnings ſo far, that he may juſtly expect compliance with his Command. But no ſooner doth the Devil ſollicit, but man inclines rather to what he <hi>ſuggests,</hi> than to what God <hi>injoyns.</hi> He ſins <hi>voluntarily</hi> and perſiſteth in it <hi>obstinately,</hi> notwithſtanding all the exhortati<g ref="char:EOLhyphen"/>ons, promiſes, threatnings of God to the contrary. This is properly to harden a man's heart: A preg<g ref="char:EOLhyphen"/>nant inſtance whereof we have in <hi>Jeremy, As for the word which thou haſt ſpoken we will not do it; but we</hi> 
+               <note place="margin">Jer. 44. 5. 16, 17.</note> 
+               <hi>will certainly do whatſoever proceeds out of our own mouth.</hi> But the moſt remarkable inſtance of this ſin is in <hi>Pharaoh,</hi> who notwithſtanding all that <hi>Moſes</hi> 
+               <note place="margin">Exod. chap. 8, 9, 10.</note> could ſay or do in the name of the Lord, hardned his heart ſtill, and became worſe and worſe.</p>
+            <p n="3">3. There is a <hi>Judicial hardneſs.</hi> When man goes on thus <hi>ſtubbornly</hi> to harden his own heart, God comes in as a righteous Judge and hardens it <hi>fi<g ref="char:EOLhyphen"/>nally:</hi> the former is <hi>man</hi>'s own <hi>ſin,</hi> the <hi>latter</hi> is his juſt <hi>puniſhment.</hi> When men like not to retain God in their knowledg, he juſtly gives them up to a hard heart and a reprobate mind, which is a ſpiritual judgment, and one of the ſevereſt that can be in<g ref="char:EOLhyphen"/>flicted in this life.</p>
+            <pb n="10" facs="tcp:51540:9"/>
+            <p>Now God may be ſaid to harden man's heart two waies.</p>
+            <p n="1">1. <hi>Privatively,</hi> by withholding that grace which is neceſſary to ſoften it. So St. <hi>Auſtin</hi> often; God hardens the heart, <hi>non infundendo malitiam, ſed ſub<g ref="char:EOLhyphen"/>trahendo gratiam;</hi> not by infuſing any evil into it, but by withholding the influences of that grace, which is neceſſary to make it willing and pliable. And again, <hi>Deus dicitur excaecari, quando non illu<g ref="char:EOLhyphen"/>minat, indurare quando non emollit;</hi> God is ſaid to blind thoſe whom he doth not enlighten, and to harden thoſe whom he doth not ſoften.</p>
+            <p n="2">2. <hi>Poſitively;</hi> if we may ſo interpret thoſe Scriptures wherein it is poſitively ſaid, that God did harden the heart of <hi>Pharaoh,</hi> and others.</p>
+            <p>For the thing, it is not queſtionable; but for the manner how, I dare not be too poſitive in de<g ref="char:EOLhyphen"/>termining. Sure it can be by <hi>Accident</hi> only; for moſt certain it is, that God is the <hi>Author</hi> of no man's ſin. It may be (perhaps) thus; God gives him <hi>Commands</hi> which are holy, juſt and good, but theſe he <hi>peremptorily violates:</hi> he plies him with <hi>Ex<g ref="char:EOLhyphen"/>hortations,</hi> which he <hi>deſpiſes;</hi> gives him gracious <hi>Promiſes,</hi> which he <hi>neglects</hi> and disbelieves; de<g ref="char:EOLhyphen"/>nounces
+<pb n="11" facs="tcp:51540:9"/> 
+               <hi>Threatnings,</hi> which he ſlights and <hi>contemns;</hi> beſtows many <hi>Mercies</hi> on him, which he <hi>abuſeth:</hi> by all which, God being highly provoked, delivers him into the hand of Satan his Executioner, to harden him <hi>finally</hi> and <hi>judicially.</hi> When man thus hardens his own heart <hi>ſinfully,</hi> God ſteps in and hardens it <hi>judicially,</hi> and then the Judgment threat<g ref="char:EOLhyphen"/>ned is at hand; which is the third thing to be o<g ref="char:EOLhyphen"/>pened.</p>
+            <p n="3">III. <hi>He ſhall ſuddenly be deſtroyed, and that without remedy;]</hi> In which I ſhall only point out theſe three things, which we ſhall have occaſion again by and by to ſpeak to.</p>
+            <p n="1">1. Here is the <hi>ſeverity</hi> of the puniſhment; 'tis not <hi>chastiſement</hi> for our amendment, but <hi>destru<g ref="char:EOLhyphen"/>ction: He ſhall be deſtroyed.</hi>
+            </p>
+            <p n="2">2. The <hi>celerity</hi> and <hi>ſpeedineſs,</hi> and unexpectedneſs of it; it ſhall be done <hi>ſuddenly.</hi>
+            </p>
+            <p n="3">3. The <hi>certainty</hi> and <hi>unavoidableneſs</hi> of it; it ſhall be <hi>without remedy.</hi> So I have done with the firſt thing propoſed; and opened thoſe three ma<g ref="char:EOLhyphen"/>terial things contained in the Text.</p>
+            <p>The ground being thus cleared, and the foun<g ref="char:EOLhyphen"/>dation laid, it will be no difficult thing to confirm the main Propoſtion; which was the next thing in
+<pb n="12" facs="tcp:51540:10"/> order to be done, namely, <hi>He that being</hi> thus <hi>often reproved,</hi> thus <hi>hardens his neck, ſhall ſuddenly and cer<g ref="char:EOLhyphen"/>tainly periſh:</hi> Deſtruction treads upon the heels of obſtinate and incorrigible Sinners. Which Propo<g ref="char:EOLhyphen"/>ſition, though it be clear enough by its own light, yet may receive farther evidence from other Scriptures.</p>
+            <p>There was a time when the people of <hi>Iſrael</hi> and <hi>Judah</hi> provoked God by ſerving Idols, whereof the Lord had ſaid unto them, ye ſhall not do this thing. <hi>The Lord teſtified againſt them by all his Prophets and</hi> 
+               <note place="margin">2 Kings. 17. 13.</note> 
+               <hi>Seers, ſaying, Turn you from your evil waies, and keep my Commandments; but they would not hear, but hardned</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>v. 14, 15, 16.</note> 
+               <hi>their necks and rejected his statutes, till the Lord was ſo angry that he removed them out of his ſight.</hi> Again, God reproves them for breaking his Sabbaths, and admoniſhes them for the future to keep them bet<g ref="char:EOLhyphen"/>ter: <hi>but they obeyed not, but ſtiffned their necks, that they</hi> 
+               <note place="margin">Jer. 17. 22.</note> 
+               <hi>might not hear nor receive inſtruction, which provoked God to ſend a fire amongst them which could not be quenched.</hi> Want we more inſtances of this? <hi>Pha<g ref="char:EOLhyphen"/>raoh</hi> may ſtand for all. How often doth God reprove him by <hi>Moſes</hi>'s mouth? How often correct him by <hi>Moſes</hi>'s hand? How often doth <hi>he</hi> promiſe to ſub<g ref="char:EOLhyphen"/>mit, and as often rebels? till at laſt God ſwallowed him up in the Red Sea. So in <hi>Noah</hi>'s, and in <hi>Lot</hi>'s time.</p>
+            <pb n="13" facs="tcp:51540:10"/>
+            <p>Nor need we wonder at God's ſeverity towards them who harden their necks againſt Reproofs, when we conſider the manifold and great aggra<g ref="char:EOLhyphen"/>vations of this ſin.</p>
+            <p n="1">1. <hi>It is a ſin againſt knowledg,</hi> which makes it ſo much the greater. Conviction goes before reproof, Ere we can juſtly reprove a man for any fault, we muſt convince him of two things; firſt, that the thing we ſpeak againſt is a ſin; next, that he is guilty of it; if we fail in either of theſe, we can<g ref="char:EOLhyphen"/>not faſten a reproof. The Word of God, which is the tool we muſt work withal in this buſineſs, is for <hi>instruction</hi> and <hi>conviction,</hi> as well as for <hi>exhortati<g ref="char:EOLhyphen"/>on</hi> and <hi>reproof:</hi> But he that is convinced that his waies are bad, and yet will purſue them, goes againſt his own light, and is in a greater meaſure guilty. <hi>He that knows his Master's will and doth it not, ſhall be</hi> 
+               <note place="margin">Luk. 12. 47.</note> 
+               <hi>beaten with more ſtripes.</hi>
+            </p>
+            <p n="2">2. <hi>'Tis a ſin againſt mercy.</hi> Reproof is an act of love; a man reproves not him whom he doth not regard: 'Tis the <hi>greatest</hi> act of love, and the trueſt expreſſion of kindneſs, to tell us of our faults; hence we read, <hi>Thou ſhalt not hate thy Brother in thine heart by letting ſin to rest upon him; but thou ſhalt in</hi> 
+               <note place="margin">Levit. 19. 17.</note> 
+               <hi>any wiſe rebuke thy Neighbour.</hi> If not to reprove be
+<pb n="14" facs="tcp:51540:11"/> to hate, then to reprove muſt be an act of love and mercy. God loves whom he chaſtiſeth, and re<g ref="char:EOLhyphen"/>proves them in this World, that they may not pe<g ref="char:EOLhyphen"/>riſh with it. There's hony in the top of his rod; mercy in all his rebukes: the greater is the ſin which is committed againſt ſo rich mercy.</p>
+            <p n="3">3. <hi>'Tis a ſin againſt the means,</hi> which God hath ap<g ref="char:EOLhyphen"/>pointed for our ſalvation. His corrections are in<g ref="char:EOLhyphen"/>tended for our inſtruction; the rod and reproof are to give wiſdom; <hi>Reprove one that hath underſtanding,</hi> 
+               <note place="margin">Prov. 19. 25.</note> 
+               <hi>and he will underſtand knowledg.</hi>
+            </p>
+            <p>By all which we ſee, that Reproof is a means intended by God to bring us to the knowledg and practice of our Duties. When the ſick Patient ſputters up his phyſick into the face of his Phyſi<g ref="char:EOLhyphen"/>tian, his caſe is deſperate; when we reject that which alone would cure us, we muſt needs periſh.</p>
+            <p n="4">4. <hi>'Tis a ſin made up of ſuch ugly ingredients,</hi> that it cannot but be odious unto God.</p>
+            <p n="1">1. The firſt ingredient that goes to the making up of this ſin is <hi>Pride;</hi> than which nothing can be more odious to God or Man; which is clear from that of <hi>Nehemiah; Our Fathers dealt</hi> proudly, <note place="margin">Nehem. 9. 16,</note> 
+               <hi>and hardned their necks, and hearkned not to thy Com<g ref="char:EOLhyphen"/>mandment:</hi> And again, <hi>Thou didſt teſtifie againſt them</hi> 
+               <note place="margin">29.</note>
+               <pb n="15" facs="tcp:51540:11"/> 
+               <hi>to bring them to thy Law, but they dealt</hi> proudly, <hi>with<g ref="char:EOLhyphen"/>drew the ſhoulder, hardned their necks, and would not hear.</hi> The next is,</p>
+            <p n="2">2. <hi>Contempt</hi> and <hi>Scorn,</hi> than which nothing pro<g ref="char:EOLhyphen"/>vokes more. This ſort of Sinners is like the <hi>Le<g ref="char:EOLhyphen"/>viathan,</hi> who ſlights all the Artillery that is brought againſt him. <hi>He esteemeth Iron as a straw, and Braſs</hi> 
+               <note place="margin">Job 41. 27.</note> 
+               <hi>as rotten wood. The arrow cannot make him flie, ſling-ſtones are turned with him into ſtubble. Darts are ac<g ref="char:EOLhyphen"/>counted as stubble, and he laughs at the ſhaking of the spear.</hi> So he, who being often reproved, hardens his neck; God frowns, chides, ſtrikes; he cares not, but goes on ſtill.</p>
+            <p n="3">3. <hi>Obctinacy</hi> and reſolvedneſs in ſin; as in thoſe in <hi>Jeremy, What thou commandeſt us we will not do, but we will do whatſoever is good in our own eyes.</hi> 
+               <note place="margin">Jer. 44. 17.</note>
+            </p>
+            <p n="4">4. Laſtly, <hi>there's a ſad train</hi> which alwaies at<g ref="char:EOLhyphen"/>tends at the heels on't; when men are come to this, what will they ſtick at? In that place before men<g ref="char:EOLhyphen"/>tioned, when they had once <hi>hardned their necks,</hi> it follows, <hi>they became vain and followed after vanity; they joyned themſelves with the Heathens, made molten Images, made a Grove, and worſhipt the Hoſt of heaven; they ſerved</hi> Baal, <hi>and made their Sons and Daughters paſs through the fire to Devils;</hi> and what not? In<g ref="char:EOLhyphen"/>deed,
+<pb n="16" facs="tcp:51540:12"/> it dethrones that Reaſon which ſhould have the empire of the Soul, and ſets up Luſt and Sen<g ref="char:EOLhyphen"/>ſuality in its room; for as <hi>Solomon</hi> ſaies, <hi>He that hateth reproof is brutiſh.</hi> 
+               <note place="margin">Prov. 12. 1.</note>
+            </p>
+            <p>And when the ſin is ſo great, no wonder that the puniſhment is great too. <hi>God is a God of Ju<g ref="char:EOLhyphen"/>ſtice, and by him actions are weighed,</hi> he meaſures out puniſhment proportionable to the offence.</p>
+            <p>Concerning this Judgment here threatned we had three things (as I noted) obſervable in the words.</p>
+            <p n="1">1. The <hi>ſeverity</hi> of it, <hi>He ſhall be deſtroyed;]</hi> When we find God threatning this Sin, he ſpeaks at another rate than in other caſes. The fifth Chapter of <hi>Jeremy</hi> is full of ſuch expreſſions; <hi>A Lion out of</hi> 
+               <note place="margin">Jer. 5. 6.</note> 
+               <hi>the forreſt ſhall ſlay them, a Wolf of the evening ſhall devour them, and a Leopard ſhall watch over their Ci<g ref="char:EOLhyphen"/>ties, every one that goes out ſhall be torn in pieces:</hi> what can be imagined more dreadful? When God had ſmitten <hi>Iſrael</hi> with blaſting and drought, with famine, ſword, and peſtilence, but they returned not; then ſaies God, <hi>thus</hi> and <hi>thus</hi> will I do unto thee, <note place="margin">Amos 4. 12.</note> as if he wanted words to expreſs the greatneſs of his wrath, <hi>thus</hi> and <hi>thus</hi> will I do, <hi>i. e.</hi> be fierce beyond all expreſſion.</p>
+            <pb n="17" facs="tcp:51540:12"/>
+            <p>God's Reproofs are to humble us, and to bring us to himſelf by true repentance; but if theſe do it not, he brings a <hi>final</hi> Judgment to our utter de<g ref="char:EOLhyphen"/>ſtruction. He charges us firſt with his <hi>ſmall Artil<g ref="char:EOLhyphen"/>lery,</hi> but if that reduceth us not to our obedience, he falls upon us with his <hi>main Battalia.</hi> When in<g ref="char:EOLhyphen"/>treaties, threatnings and corrections will do no good upon the Child, then the Father proceeds to diſinherit him. When playſters and ſearings will not heal the wound, the Chyrurgeon proceeds to amputation. When pruning and ſoyling will not make the Tree fruitful, then the Axe is laid unto the root of it. When reproofs are caſt away, and chaſtiſements mend us not, then deſtructions come to end us. When mens hearts grow hard and im<g ref="char:EOLhyphen"/>penitent under judgments, they <hi>treaſure up wrath</hi> 
+               <note place="margin">2 Theſ. 1. 9.</note> 
+               <hi>againſt the day of wrath,</hi> and procure ſudden <hi>deſtru<g ref="char:EOLhyphen"/>ction</hi> from the preſence of the Lord; which falls nothing ſhort of the <hi>conteretur</hi> in the Text, <hi>He ſhall be deſtroyed.</hi>
+            </p>
+            <p n="2">2. Here's the <hi>celerity</hi> or ſpeedineſs of the Judg<g ref="char:EOLhyphen"/>ment, <hi>He ſhall be destroyed ſuddenly,</hi> when 'tis leaſt thought on, or expected. Though God be long ere he ſet forth to ſlay the <hi>impenitent</hi> and obdurate Sin<g ref="char:EOLhyphen"/>ner, yet when he comes he comes apace. He is
+<pb n="18" facs="tcp:51540:13"/> full of Patience, but patience abuſed turns to fury. He is not ſlack, as men count ſlackneſs: but will come upon Eagles wings; with ſuch ſpeed as none <note place="margin">Hoſ. 8. 1.</note> can flie from, and with ſuch ſtrength as none can reſiſt.</p>
+            <p>He had born long with the old World, and had reproved them one hundred and twenty years by <hi>Noah</hi>'s preaching; every ſtroke in making the Ark reproved and called them to repentance; but Pa<g ref="char:EOLhyphen"/>tience being tired, then, <hi>the ſame day</hi> that <hi>Noah</hi> en<g ref="char:EOLhyphen"/>tred <note place="margin">Gen. 7. 11.</note> into the Ark, all the windows of heaven were opened, and the waters guſht out to the ruine of the World.</p>
+            <p>When neither awe of God's Majeſty, nor the Counſels, Reproofs, nor Example of righteous <hi>Lot</hi> could work upon the <hi>Sodomites,</hi> then God comes <note place="margin">Gen 19. 23, 29.</note> ſuddenly with a tempeſt of fire and brimſtone: The Sun roſe gloriouſly upon them, but it was at<g ref="char:EOLhyphen"/>tended with an everlaſting night.</p>
+            <p>This ſudden and unexpected wrath is ſet out by the breach of a Wall that is ready to fall, which <note place="margin">Iſai. 30. 12, 13.</note> copes and catches a man ere he be aware, and cruſhes him to pieces.</p>
+            <p>Sometimes 'tis reſembled to a Whirlwind, which comes on a ſudden and carries all before it. Hence <note place="margin">Jer. 23. 19.</note>
+               <pb n="19" facs="tcp:51540:13"/> that of <hi>Solomon, He that is perverſe in his waies ſhall</hi> 
+               <note place="margin">Prov. 28. 18.</note> 
+               <hi>fall at once,</hi> i. e. <hi>certò cadet,</hi> he ſhall <hi>certainly</hi> fall; <hi>ſubitò cadet,</hi> he ſhall fall <hi>ſuddenly,</hi> in an hour when he leaſt expects it; and, <hi>undiquàque cadet,</hi> he ſhall <hi>utterly</hi> fall in all his concernments, and be utterly deſtroyed.</p>
+            <p n="3">3. Here is the certainty and unavoidableneſs of the Judgment, <hi>there ſhall be no remedy.</hi> He <hi>ſhall be</hi> deſtroyed, and all remedies ſhall come too late.</p>
+            <p>God hath ſaid it, <hi>who is truth, and cannot lie;</hi> who <hi>never</hi> yet broke his word, either in promſe, or threatning. There is a time, when diſeaſes and wounds may be cured; which, if let run too long, no plaiſters or medicines can do them good. There is a time, when God will be found of us, be ready to receive and ſave us: but if we ſtand out beyond our day, Repentance will be hid from his eyes. There was a time when <hi>Eſau</hi> ſought <note place="margin">Heb. 12. 17.</note> his Birth-right with <hi>tears,</hi> but could not find it. Thus dealt God with ſuch as deſpiſed his Pro<g ref="char:EOLhyphen"/>phets, and their Reproofs, the wrath of God came upon them till there was no <hi>remedy.</hi> Calamity <note place="margin">2 Chro. 26. 16.</note> ſhall come <hi>ſuddenly</hi> upon the froward (ſaith <hi>Solo<g ref="char:EOLhyphen"/>mon)</hi> ſuddenly ſhall they be broken, and that <note place="margin">Prov. 6. 15.</note> 
+               <hi>without remedy.</hi>
+            </p>
+            <pb n="20" facs="tcp:51540:14"/>
+            <p>There's nothing can ſhore up thoſe, whoſe <hi>in<g ref="char:EOLhyphen"/>corrigibleneſs</hi> provokes God to come forth for their deſtruction. No <hi>Policy</hi> of man can <hi>decline</hi> him, no <hi>power</hi> can <hi>reſiſt</hi> him. There's no <hi>Remedy</hi> of <hi>power</hi> or <hi>force</hi> againſt him. <hi>Will ye provoke the Lord to jealouſie? are ye stronger than he? No weapon that's formed againſt him ſhall proſper. He takes away and none can hinder him: Who can ſay unto him, what</hi> 
+               <note place="margin">Job 9. 12.</note> 
+               <hi>doſt thou?</hi>
+            </p>
+            <p>There is no <hi>Remedy to appeaſe him,</hi> for he for<g ref="char:EOLhyphen"/>bids prayer in ſuch a caſe for them. <hi>Pray not for this People</hi> (ſaith God to <hi>Jeremy) nor lift up a Prayer</hi> 
+               <note place="margin">Jer. 7. 16.</note> 
+               <hi>for them, nor make interceſſion to me; for I will not hear thee.</hi> Nay, <hi>though</hi> Moſes <hi>and</hi> Samuel <hi>stood before me,</hi> who were ſo prevalent in prayer, <hi>yet my mind could not be toward this People; cast them out of</hi> 
+               <note place="margin">Jer. 15. 1.</note> 
+               <hi>my ſight, and let them go.</hi> And what can be ex<g ref="char:EOLhyphen"/>pected, when God will be no more intreated, but utter ruine and deſtruction?</p>
+            <p>Thus far have I gone in opening the Doctrinal part of the Text, and ſhewed you the miſerable condition of an immorigerous, obſtinate, incorrigi<g ref="char:EOLhyphen"/>ble Sinner.</p>
+            <p>There's nothing now remains, but to make ſome
+<pb n="21" facs="tcp:51540:14"/> ſhort reflexions upon what hath been ſaid by way of Application, and I have done. And this I ſhall briefly diſpatch by propoſing theſe four <hi>Queries,</hi> to which (I beſeech you) let your Con<g ref="char:EOLhyphen"/>ſciences make an impartial anſwer.</p>
+            <p n="1">1. Whether we of this place and generation be not Men of <hi>Reproofs?</hi> Whether have not we been often reproved for our ſins?</p>
+            <p n="2">2. Whether we have been amended by thoſe <hi>Reproofs?</hi> or, whether we have hardned our necks againſt them?</p>
+            <p n="3">3. If the latter of theſe appear; whether we have not juſt cauſe to expect the judgment threat<g ref="char:EOLhyphen"/>ned in the Text?</p>
+            <p n="4">4. What way is yet left to eſcape ſo great de<g ref="char:EOLhyphen"/>ſtruction?</p>
+            <p n="1">1. Whether we of this place and Age have not been Men of <hi>Reproofs?</hi> For the reproofs and checks of Conſcience, and the <hi>private perſonal rebukes</hi> of Friends, every man can <hi>best</hi> and <hi>only</hi> judge for himſelf, what he hath had.</p>
+            <p>But as for thoſe which have been more <hi>Publick,</hi> whether <hi>verbal</hi> or <hi>real,</hi> the thing is ſo evident that 'tis paſt denial, we have had our <hi>reproofs.</hi>
+            </p>
+            <p n="1">
+               <pb n="22" facs="tcp:51540:15"/>1. For <hi>verbal Reproofs;</hi> Reproof (as you have heard) is one main end and uſe for which the Holy Scripture was given by God. And there is no Nation under heaven, where the Word of God hath been more <hi>purely, powerfully, constantly</hi> preacht, than in this Nation, this City.</p>
+            <p>We have been (as <hi>Goſhen)</hi> a place of Light, when almoſt all the World hath ſate in darkneſs.</p>
+            <p>It's now one hundred and fifty years ſince the light of the glorious Goſpel hath ſhone out a<g ref="char:EOLhyphen"/>mongſt us more clearly than in moſt other places, and <hi>great hath been the company of Preachers.</hi> Men not of Ordinary rank, but ſo many <hi>Apollo</hi>'s, <hi>mighty in the Scripture.</hi> Who have performed the Office of faithful Watchmen, to tell you of your ſins, and warn you of your danger. Men, who, according to the <hi>abundant Grace of God given to them, have laid Judgment to the line, and Righteouſneſs to the plummet.</hi> Who haue neither ſew'd pillows under your arms, nor daub'd with untempered Morter. I need not name them to you, nor the <hi>ſeries</hi> of time wherein they lived; you remember ſome, you have heard of the reſt.</p>
+            <p>So that if this place be deſtroyed, 'tis not for
+<pb n="23" facs="tcp:51540:15"/> the want of <hi>knowledge;</hi> I am ſure, not for the want of the <hi>means</hi> of knowledge. They have rather ſur<g ref="char:EOLhyphen"/>feited and waxed wanton, than ſuffered a <hi>famine of the Word of Grace,</hi> or of any thing needful to ſalvation.</p>
+            <p n="2">2. And for <hi>Real reproofs,</hi> whereby God hath teſtified againſt us his diſpleaſure for our ſins, that he might bring us to repentance, we have not been altogether without them neither.</p>
+            <p>I ſhall inſtance only in two, which may be yet freſh in our memories: ſuch as our Predeceſſors never felt, and may thoſe who ſhall come after us never feel the like! I mean the laſt conſuming Plague, and the late dreadful Fire. And, becauſe too many amongſt us live, as if they had never ſeen, or not obſerved, theſe dreadful Judgments; afford me your patience, while I give you a ſhort repreſentation of both; that ſo upon ſerious thoughts, you may <hi>learn Righteouſneſs by the things which you have ſuffered.</hi> Of the Plague firſt.</p>
+            <p>When <hi>Death</hi> mounted upon his pale Horſe, rode in triumph through your ſtreets, and ſpared nei<g ref="char:EOLhyphen"/>ther <hi>age, ſex,</hi> nor <hi>condition.</hi> When the high-waies to this Great City, were (as in the daies of <hi>Sham<g ref="char:EOLhyphen"/>gar)</hi>
+               <pb n="24" facs="tcp:51540:16"/> unoccupied, and none (that could well avoid <note place="margin">Judg. 5. 6.</note> it) cared to come within the ſight or ſcent of it. When the wideſt ſtreets were but thinly peopled; and many, of thoſe few you met, carried death in their faces. When a man's breath was abhorred by his neareſt Relations, and thoſe of his moſt inti<g ref="char:EOLhyphen"/>mate Acquaintance hid themſelves from him. When the Air it ſelf became infectious, and that, without which we could not live, conveyed death into our boſoms. When the ſorrows of the dying Husband were increaſed by the groans of his departing Wife, and both aggravated by the cries of their lan<g ref="char:EOLhyphen"/>guiſhing Children. When the hungry Infant crawl'd to the ſick Mothers breaſt, and ſuckt poiſon inſtead of nouriſhment. When your ears were fill'd, <hi>all the day,</hi> with the noiſe of <hi>paſſing-Bells,</hi> and <hi>all night</hi> with the doleful tone of thoſe who call'd for them to burial. When the ſad Parents were put to the ungrateful task of being the winders, bearers, buriers of their own Children. When the innocent ſheep were com<g ref="char:EOLhyphen"/>mitted to the ravenous wolf; ſick people to the keeping of cruel, rapacious, and unſatiable Nur<g ref="char:EOLhyphen"/>ſes, who were often ('tis to be feared) more cruel to them than their diſeaſes; and murthered thoſe,
+<pb n="25" facs="tcp:51540:16"/> whom their diſeaſes might have ſpared. When <hi>Death</hi> fiſhed with his largeſt Net, that had the ſmalleſt meſhes, and ſpared not the <hi>minues,</hi> the Infants of a ſpan long. When every day added ſuch a number to the dead, as ſwell'd the weekly Bills beyond all Pre<g ref="char:EOLhyphen"/>ſidents. In a word, When the Plague was worſe, in ſome ſenſe, than that of <hi>Egypt; There</hi> was not a houſe wherein there was not <hi>one dead,</hi> but <hi>here</hi> was <note place="margin">Amos 6. 10.</note> 
+               <hi>many a houſe</hi> in which there was not <hi>one</hi> left <hi>alive.</hi>
+            </p>
+            <p>Deſcend we to the next year; wherein God uſes a new method, and <hi>ſeverer</hi> demonſtration of his wrath. He had <hi>formerly</hi> ſent a <hi>fire</hi> into our <hi>blood,</hi> and <hi>now</hi> ſends a <hi>fire</hi> into our <hi>houſes; that year</hi> took away the <hi>Inhabitants</hi> from their <hi>houſes; this</hi> takes away the <hi>Habitations</hi> from the <hi>Inbabitants.</hi> One year he throws an <hi>hundred thouſand</hi> carkaſſes under ground, and the next levels <hi>thirteen thouſand</hi> houſes with it. He hath dealt with us, as he threatned to do unto <hi>Jeruſalem;</hi> and made <hi>this</hi> City, as he threatned <hi>that,</hi> 
+               <note place="margin">Jer. 19. 11, 12.</note> a very <hi>Tophet. Tophet</hi> was a place of <hi>burial,</hi> and a <note place="margin">Iſai. 3. 33.</note> place of <hi>burning;</hi> ſo was this City; one year you buried till there was no place to bury in: In the next it burnt till there was little left to be conſumed.</p>
+            <p>A <hi>fire</hi> like that of Hell, the horrour whereof no
+<pb n="26" facs="tcp:51540:17"/> pen can expreſs, nor tongue can tell. Worſe than that at <hi>Tabera; that</hi> was but in the skirts of the <note place="margin">Numb. 11. 1, 2.</note> Camp, but <hi>this</hi> in the bowels of this Royal City.</p>
+            <p>When God had permitted a vile Miſcreant to throw but a flunk of fire, and his <hi>vindictive Juſtice</hi> blows the bellows, how ſoon is it kindled into a flame? how ſoon got upon the houſe tops? what a doleful noiſe awakes men from their ſleepy beds, and calls them up to quench the growing flames? They in the mean time, like men amazed, cannot find their hands, but are even at their wits end, and know not which way to turn themſelves. In the mean ſpeace the greedy flames purſue their prey; and while men make <hi>none,</hi> or <hi>feeble</hi> reſiſtance, ga<g ref="char:EOLhyphen"/>ther ſtrength; and, becauſe it is not ſuddenly quenched, grows unquenchable. Who can expreſs the horrour of that day, when this <hi>Royal City,</hi> the <hi>Metropolis of the Nation,</hi> the <hi>Chamber of our Kings,</hi> ſo renowned through the whole VVorld, was become a <hi>Tophet,</hi> one Oven? VVhen the proud flames had advanced their curled looks above the tops of the ſtatelieſt buildings, inſulting over all engins, and contemning all force, that was uſed againſt them. VVhen the fire, like the Smith's forge, grew the
+<pb n="27" facs="tcp:51540:17"/> hotter for the water that was brought to quench it. VVhen it lickt up whole houſes, as the Oxe licks up graſs. VVhen maſſie timber was but as ſtraw, and the very bricks burnt again like ſtubble.</p>
+            <p>Then might you have ſeen fourſcore and odd <hi>Churches,</hi> dedicated to God's Service, all in flames preaching <hi>wrath</hi> to ſuch, as would not obey that VVord which had been preached in them.</p>
+            <p>It were infinite, and beſide my purpoſe, as much as beyond my power, to expreſs all the dreadfulneſs of that day. When the Sun it ſelf ſeemed to be turn<g ref="char:EOLhyphen"/>ed into blood, and the Moon was out-ſhone by the greater light of the Fire. When men had ſo long hazarded themſelves to defend their houſes, that they were glad to run away by the light of the fire that conſumed them, to ſave their lives. VVhile ſome were diſputing with themſelves, what to ſave, and what to leave, the fire came and determined the debate, and conſumed all. And to cloſe up this ſad Meditation,</p>
+            <p>VVhen the delicate Dame, that ſeldom uſed to touch the ground with her foot, was glad to beat it on the hoof, leading or rather dragging her tender Child in hand, juſtled by every Porter without any
+<pb n="28" facs="tcp:51540:18"/> reſpect, and walking in as great a danger, as that from which ſhe fled. And at night, inſtead of their large chambers, ceiled houſes, warm beds, and rich hangings, were fain to take up in the open field; where they had no Canopy, but the Heavens; nor bed, but the Earth to reſt upon.</p>
+            <p>Thus, thus, this famous City, which was elder than <hi>Solomon</hi>'s Temple by an hundred years (if ſome calculate aright) and had been two thouſand ſeven hundred and ſeventy years growing to its height, in four daies ſpace, fell into that confuſed <hi>Chaos,</hi> where<g ref="char:EOLhyphen"/>in our eyes have ſeen it. Now in your cold blood you cannot but acknowledg that theſe were <hi>real</hi> re<g ref="char:EOLhyphen"/>proofs, and may paſs for <hi>ſevere</hi> ones too. That was the firſt Querie, the ſecond follows; which is,</p>
+            <p n="2">2. VVhether we have been amended by theſe <hi>reproofs?</hi> or, whether we have hardned our necks a<g ref="char:EOLhyphen"/>gainſt them? I wiſh it may prove otherwiſe, but I fear the worſt. Should a ſtrict inquiſition be made into our hearts and lives, what reformation would be found there? After all theſe ſeveral and ſad diſ<g ref="char:EOLhyphen"/>penſations, may not God ſay, <hi>I would have healed</hi> 
+               <note place="margin">Jer. 51. 9.</note> 
+               <hi>you, and you would not be healed;</hi> I have done <hi>thus</hi> and <hi>thus</hi> unto you, brought one Judgment in the
+<pb n="29" facs="tcp:51540:18"/> neck of another, but <hi>ye have not returned to me, no not to this very day?</hi>
+            </p>
+            <p>VVhat <hi>ſins</hi> are left? what <hi>duties</hi> better perfor<g ref="char:EOLhyphen"/>med than before? tell me he that can, for I know not. Is not God's Name unhallowed by unima<g ref="char:EOLhyphen"/>ginable <hi>oaths, curſes,</hi> and <hi>blasphemies?</hi> Are not his Ordinances and Inſtitutions <hi>ſlighted</hi> and <hi>abuſed</hi> ſtill? Is not his Day openly <hi>prophaned</hi> ſtill; and more than ever? Is <hi>drunkenneſs, uncleanneſs, debau<g ref="char:EOLhyphen"/>chery,</hi> leſs in requeſt than heretofore? Are we leſs <hi>cenſorious, ſlandering,</hi> and <hi>backbiting</hi> than we were? Is <hi>covetouſneſs, ſelf-ſeeking, oppreſſion, injuſtice,</hi> leſs practiced than before theſe Judgments fell upon us? or, do not all theſe rather grow upon us? VVhat ground hath God gained upon us by theſe tedious executions? tell me he that can.</p>
+            <p>Truly (if a man may be bold to ſpeak truth in this degenerate age) there ſeems to be but little reformation wrought. But, as thoſe whom God complains of, the more we are <hi>ſmitten,</hi> the <hi>worſe we</hi> 
+               <note place="margin">Iſai 1.</note> 
+               <hi>grow:</hi> Like the Smith's Anvil, we are the harder for ſmiting; or like reſtive Jades, that go the worſe for beating.</p>
+            <p>Of the prodigious <hi>Atheiſin</hi> which reigns among
+<pb n="30" facs="tcp:51540:19"/> too many! who never think nor ſpeak of God, but when they ſwear or curſe; never talk of Religion or the Scriptures, but to deride and jeer it; who ne<g ref="char:EOLhyphen"/>ver think themſelves Wits, till they have proved themſelves downright Atheiſts; who make theſe ſe<g ref="char:EOLhyphen"/>vere Judgments of God <hi>matters</hi> of their <hi>ſport,</hi> but not <hi>motives</hi> to lead them to <hi>repentance.</hi>
+            </p>
+            <p>In a word for all; Are we more <hi>ſerviceable</hi> to God? more <hi>profitable</hi> to men, more <hi>faithful</hi> in our callings, more <hi>exact</hi> in our duties, more <hi>humble,</hi> more <hi>charitable,</hi> more <hi>conſcionable</hi> in our dealings, than before? if not; 'tis to be feared that we grow worſe. If the furnace ſoften us not, as it doth <hi>gold,</hi> it will harden us, as it doth <hi>clay.</hi>
+            </p>
+            <p n="3">3. And if this be the caſe with us, what can we rationally expect, but what the Text threatens, <hi>De<g ref="char:EOLhyphen"/>ſtruction?</hi> We ſeem to draw towards it apace, and I cannot well ſee what will be the next degree of puniſhment to which God can advance, beneath Deſtruction.</p>
+            <p>We are already in <hi>Ephraim</hi>'s caſe; <hi>strangers had devoured his ſtrength, and he ſaw it not; grey hairs</hi> 
+               <note place="margin">Hoſ. 7 9, 10.</note> 
+               <hi>were here and there upon him, and he knew it not: But the Pride of</hi> Ephraim <hi>did testifie to his face, and they do</hi>
+               <pb n="31" facs="tcp:51540:19"/> 
+               <hi>not turn to the Lord their God, nor ſeek him for all this.</hi> Is not this as true of us, as ever it was of <hi>Ephraim?</hi> Are not grey heirs upon us? is not our glory a<g ref="char:EOLhyphen"/>bated? our ſtrength broken? are not the ſym<g ref="char:EOLhyphen"/>ptoms of a declining dying age upon us? Ho<g ref="char:EOLhyphen"/>nour and reputation weakned abroad; trade and wealth loſt at home. Poor ſinful and feeble Nation! fainting under its own weight, creeping towards its own funeral; yet alas! we are not ſenſible of it, we lay it not to heart!</p>
+            <p n="4">4. What then remains, but to apply our ſelves ſeriouſly to thoſe waies and means, which only are left us, for the <hi>reconciling</hi> us to God, <hi>ſupporting</hi> of a tottering Nation, <hi>eſtabliſhing</hi> of a languiſhing City, and <hi>preventing</hi> that deſtruction which is threatned in the Text? But what are they? Hear what God himſelf ſaith; <hi>Return to me, and I will return to you. Return, ye backſliding children, and I will heal your</hi> 
+               <note place="margin">Jer. 3. 1, &amp; 22.</note> 
+               <hi>backſlidings.</hi>
+            </p>
+            <p>
+               <hi>At what time I ſhall speak concerning a Nation or Kingdom, to pluck up, to pull down, and to deſtroy it; if that Nation, againſt which I have pronounced, turn from their evil waies, I will repent me of the evil I</hi> 
+               <note place="margin">Jer. 18. 7, 8.</note> 
+               <hi>thought to do against them.</hi>
+            </p>
+            <pb n="32" facs="tcp:51540:20"/>
+            <p>
+               <hi>If you will loath your ſelves, and all your doings which have not been good, and be guided by my Coun<g ref="char:EOLhyphen"/>ſel;</hi> 
+               <note place="margin">Jer. 42 10.</note> 
+               <hi>I will plant you, and not pluck you up, and I will repent me of the evil that I have done againſt you.</hi>
+            </p>
+            <p>What then is to be done? Bend your ear to Diſcipline, and <hi>harden</hi> not your <hi>necks</hi> againſt Re<g ref="char:EOLhyphen"/>proofs. Humble your ſelves under the mighty hand of God, and accept of the puniſhment of your ſins. <hi>Break off your ſins by repentance, and your iniquity by acts of piety and charity.</hi> Take unto your ſelves words, and ſay from the bottom of your heart, <hi>Take away Iniquity, and receive us graciouſly. Now the axe is laid to the root of the tree, bring forth fruits meet for Repentance.</hi>
+            </p>
+            <p>O good Friends! if there be in your hearts any fear of God's Judgments, any ſenſe of his Mercies, any pity to a languiſhing Kingdom, any kindneſs for an (almoſt) ruined City, ſet, ſet <hi>quickly,</hi> ſet <hi>ſeriouſly</hi> about this work. So may you happily ſee God's anger pacified, a tottering Nation ſup<g ref="char:EOLhyphen"/>ported, trade revived, and your City totally re<g ref="char:EOLhyphen"/>built, reinhabited, and flouriſh again. But if this be neglected, all other projects and contrivan<g ref="char:EOLhyphen"/>ces will be ſo far from doing you good, that they
+<pb n="33" facs="tcp:51540:20"/> will advance your ruine. We may have <hi>peace</hi> with our neighbours, but how long that may laſt is un<g ref="char:EOLhyphen"/>certain. Or grant that a General peace, which is every good man's deſire, be concluded in Chri<g ref="char:EOLhyphen"/>ſtendom; yet who knows, but the firſt day of a General peace may be the laſt day of our tran<g ref="char:EOLhyphen"/>quillity?</p>
+            <p>But admit, that we continue at peace with our Neighbours, and all the World; what will that advantage us, while God himſelf is our enemy? You may <hi>recover trade,</hi> but you will <hi>loſe the Jewel</hi> of great price; <hi>Riches</hi> may be <hi>got,</hi> but <hi>Heaven</hi> will be <hi>loſt.</hi> What though your City be rebuilt? (and, bleſſed be God, is like the <hi>Phoenix</hi> riſen more glo<g ref="char:EOLhyphen"/>rious out of her own aſhes) yet without <hi>repentance</hi> and <hi>amendment of life,</hi> the <hi>stones</hi> out of the walls will <note place="margin">Hab. 2. 11.</note> cry for juſtice, and the <hi>beam</hi> out of the timber will anſwer it. What though your City be built with <hi>bricks?</hi> ſo was <hi>Babel,</hi> and yet confounded; what though it were built of <hi>hewen ſtone?</hi> ſo was <hi>Solomon</hi>'s Temple, and yet utterly deſtroyed.</p>
+            <p>Believe it, Sirs! There is no fence againſt an angry and incenſed God, without <hi>repentance,</hi> and <hi>amendment of life.</hi> There was never yet any, either
+<pb n="34" facs="tcp:51540:21"/> perſon or people, <hi>that hardned themſelves againſt him, and prospered.</hi> When the Mountains ſhall be melted, and the Rocks removed out of their place, there will be found an eternal truth in the words of the Text;</p>
+            <epigraph>
+               <q>He that being often reproved, hardeneth his neck, ſhall ſuddenly be deſtroyed, and that without remedy.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:51540:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
